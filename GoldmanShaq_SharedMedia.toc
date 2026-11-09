@@ -1,7 +1,7 @@
 ## Interface: 120105, 16001
 ## Title: GoldmanShaq SharedMedia
 ## Notes: Custom fonts and textures.
-## Version: 1.0.0
+## Version: 1.1.0
 ## Author: GoldmanShaq
 ## Category: Goldman Shaq
 ## IconTexture: Interface\AddOns\GoldmanShaq_SharedMedia\logo

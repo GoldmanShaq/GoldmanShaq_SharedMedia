@@ -20,6 +20,7 @@ local MEDIA = {
         ["GS_MetropolisBlack"]  = ROOT .. "Fonts\\MetropolisBlack.ttf",
         ["GS_Montserrat"]       = ROOT .. "Fonts\\Montserrat.ttf",
         ["GS_MuscleUI"]         = ROOT .. "Fonts\\MuscleUI.ttf",
+        ["GS_MuscleUI2"]         = ROOT .. "Fonts\\MuscleUI2.ttf",
         ["GS_Naowh"]            = ROOT .. "Fonts\\Naowh.ttf",
     },
 
